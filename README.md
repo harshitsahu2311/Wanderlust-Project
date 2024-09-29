@@ -5,6 +5,8 @@
 
 ![Preview Image](https://github.com/krishnaacharyaa/wanderlust/assets/116620586/17ba9da6-225f-481d-87c0-5d5a010a9538)
 
+## For Local Deployment, Read my Blog:
+[BLOG LINK](https://harshitsahu2311.hashnode.dev/project-wanderlust-deployment)
 <div>
   <h2><img src="https://github.com/Meetjain1/wanderlust/assets/133582566/4a07b161-b8d6-4803-804a-3b0db699023e" width="35" height="35"> Goal of this project </h2>
 </div>
